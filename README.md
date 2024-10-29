@@ -11,7 +11,7 @@ I'm a software engineer based in Nigeria with expertise in **Node.js**, **TypeSc
 - **PostgreSQL** and advanced **API design** principles.
 
 ## 👯 I’m looking to collaborate on ...
-- Projects that involve **machine learning** integrations or innovative web applications.
+- Projects that involve **API** integrations or innovative web applications.
 
 ## 🤔 I’m looking for help with ...
 - Optimizing performance for applications with heavy database interactions.
