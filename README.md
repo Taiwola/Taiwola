@@ -5,7 +5,7 @@ I'm a software engineer based in Nigeria with expertise in **Node.js**, **TypeSc
 ---
 
 ## 🔭 I’m currently working on ...
-- Developing **Check Out Buddy**, an application that allows users to scan product barcodes and compare prices at nearby stores.
+- Developing **Expense tracker**, an application that allows users to track their various expense from month to month.
 
 ## 🌱 I’m currently learning ...
 - **PostgreSQL** and advanced **API design** principles.
