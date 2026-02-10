@@ -94,11 +94,10 @@ A smart mobile app that lets users scan product barcodes, compare prices across 
 
 ## 📊 GitHub Stats
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Taiwola&show_icons=true&theme=radical" alt="GitHub Stats" />
-  <br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Taiwola&layout=compact&theme=radical" alt="Top Languages" />
-</div>
+
+![Olantori's GitHub stats](https://github-readme-stats.vercel.app/api?username=Taiwola&show_icons=true&theme=radical)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Taiwola&layout=compact&theme=radical)
 
 ---
 
