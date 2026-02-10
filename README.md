@@ -98,11 +98,13 @@ A smart mobile app that lets users scan product barcodes, compare prices across 
 <div align="center">
 
 <!-- GitHub Stats Card -->
-![Olantori's GitHub Stats]<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Taiwola&layout=compact&theme=radical" alt="Top Languages" />
-
+<!--
+![Olantori's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Taiwola&show_icons=true&count_private=true&theme=radical&hide_border=true&include_all_commits=true&hide=issues)
+-->
 <!-- Top Languages Card -->
+<!--
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Taiwola&layout=compact&theme=radical&hide_border=true&langs_count=8&exclude_repo=github-readme-stats,Taiwola.github.io)
-
+-->
 <!-- GitHub Streak Stats -->
 ![GitHub Streak](https://streak-stats.demolab.com?user=Taiwola&theme=radical&hide_border=true&date_format=M%20j%5B%2C%20Y%5D)
 
@@ -110,7 +112,6 @@ A smart mobile app that lets users scan product barcodes, compare prices across 
 <!--
 ![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=Taiwola&theme=radical&no-frame=true&margin-w=10&margin-h=10&row=2&column=4)
 -->
-
 <!-- GitHub Activity Graph -->
 ![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Taiwola&theme=radical&hide_border=true&area=true&custom_title=My%20Contribution%20Graph)
 
